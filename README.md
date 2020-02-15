@@ -1,2 +1,2 @@
-# handy-batchy
-I never anticipated using Windows batch so much but as it turns out, there's a lot of handy stuff, so let's keep it all under one roof.
+# handy-dandy-batchy
+I never anticipated using Windows batch so much. As it turns out there's a bunch of useful and repitive stuff I've needed, so let's gather all of that together, under one roof.
